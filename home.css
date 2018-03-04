@@ -1,0 +1,70 @@
+
+
+.main {
+  width: 170px;
+  height: 100px;
+  background: red;
+  padding: 10px;
+  border: 5px black solid;
+  margin: 0 auto;
+  position: absolute;
+  top: 40%;
+}
+.header{
+  font-family: Lobster;
+}
+
+.l_header{
+  left: 10px;
+
+
+}
+
+.r_header{
+  position: absolute;
+  text-align: left;
+  right: 10px;
+  top: 10px;
+
+
+}
+
+.picture {
+  width:50px;
+  height: 50px;
+
+}
+
+a{
+   text-decoration: none;
+}
+
+p {
+  display: inline;
+	margin: 0 auto;
+  padding: 3px;
+}
+
+h1{
+  margin: auto;
+  text-align: center;
+}
+
+footer{
+  position: absolute;
+  bottom: 50px;
+  width: 100%;
+  left: 0px;
+  background-color: #ddd;
+
+  border-bottom: solid 1px black;
+}
+
+.f_1{
+    border-top: solid 1px black;
+}
+
+.f_2{
+  bottom: 30px;
+  border-top: none;
+}
